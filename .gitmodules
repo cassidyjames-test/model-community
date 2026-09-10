@@ -1,0 +1,3 @@
+[submodule "resources/policy-packs/openai-teen-safety"]
+	path = resources/policy-packs/openai-teen-safety
+	url = https://github.com/openai/teen-safety-policy-pack
