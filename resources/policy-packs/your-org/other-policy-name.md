@@ -1,3 +1,3 @@
 # Other Policy Name
 
-_Other_ **policy** `contents` here!
+_Other_ **policy** `contents` here.
